@@ -1,0 +1,16 @@
+{
+  "i-pv.example.js": {
+    "tip": "I-PV",
+    "isim": "Pipeline Output",
+    "content": "Interactive Protein Sequence visualisation (I-PV) output from test pipeline. Updated at Sun May  5 19:19:44 UTC 2024",
+    "order": -1,
+    "mode": "src"
+  },
+  "xpress-bio.coverage.js": {
+    "tip": "XPRESS-BIO",
+    "isim": "Xpress-bio Coverage Report",
+    "content": "Jest test coverate report from unit tests (exluding E2E). Updated at Thu Aug 21 08:58:37 UTC 2025",
+    "order": -2,
+    "mode": "src"
+  }
+}

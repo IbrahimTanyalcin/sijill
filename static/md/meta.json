@@ -1,0 +1,20 @@
+{
+  "code samples": {
+    "tip": "CODE SAMPLES",
+    "isim": "Snippets",
+    "content": "Code snippets for running the tools mentioned in this repository.",
+    "order": -2
+  },
+  "pipeline artifacts": {
+    "tip": "PIPELINE ARTIFACTS",
+    "isim": "Test resuts",
+    "content": "All the coverage reports or example outputs of the tools in this repo. Updated at Thu Aug 21 08:58:37 UTC 2025",
+    "order": -3
+  },
+  "trainings": {
+    "tip": "TRAININGS",
+    "isim": "Documentation",
+    "content": "Training material and videos.",
+    "order": -1
+  }
+}
