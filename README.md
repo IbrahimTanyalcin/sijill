@@ -1,5 +1,5 @@
-# <img src="static/logo/logo.png" style="height: 120px; vertical-align: middle"> SIJILL
-[![test-results](https://img.shields.io/badge/website-showcase-orange)](https://ibrahimtanyalcin.github.io/sijill/)
+# <a rel="noopener noreferrer" href="https://ibrahimtanyalcin.github.io/sijill/"> <img src="static/logo/logo.png" style="height: 120px; vertical-align: middle"></a> SIJILL
+[![test-results](https://img.shields.io/badge/test-results-green)](https://ibrahimtanyalcin.github.io/sijill/)
 
 >IMPORTANT: This repo displays the results of tests for the tools/apps I develop. If you want a blogging template like this, go to test-blog:
 >The public repo is here: https://github.com/IbrahimTanyalcin/test-blog
