@@ -16,5 +16,11 @@
     "isim": "Documentation",
     "content": "Training material and videos.",
     "order": -1
+  },
+  "papers": {
+    "tip": "PAPERS",
+    "isim": "Papers and articles",
+    "content": "Submissions to journals and short papers.",
+    "order": -4
   }
 }

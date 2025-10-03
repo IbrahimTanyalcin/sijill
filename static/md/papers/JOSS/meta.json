@@ -1,0 +1,9 @@
+{
+  "xpress-bio.joss.pdf.js": {
+    "tip": "Xpress-Bio",
+    "isim": "xpress-bio-paper.pdf",
+    "content": "Xpress-Bio: a general purpose NodeJS based buildless server framework oriented towards bioinformatics applications",
+    "order": -1,
+    "mode": "src"
+  }
+}

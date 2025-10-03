@@ -1,0 +1,8 @@
+{
+  "JOSS": {
+    "type": "JOSS",
+    "name": "Journal of Open Source Science",
+    "content": "Submissions to JOSS",
+    "order": -1
+  }
+}
