@@ -9,7 +9,7 @@
   "xpress-bio.coverage.js": {
     "tip": "XPRESS-BIO",
     "isim": "Xpress-bio Coverage Report",
-    "content": "Jest test coverate report from unit tests (exluding E2E). Updated at Wed Oct 22 08:55:05 UTC 2025",
+    "content": "Jest test coverate report from unit tests (exluding E2E). Updated at Wed Oct 22 09:27:29 UTC 2025",
     "order": -2,
     "mode": "src"
   }
